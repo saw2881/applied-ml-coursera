@@ -1,0 +1,2 @@
+assets/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+assets/mnist_test.csv filter=lfs diff=lfs merge=lfs -text
