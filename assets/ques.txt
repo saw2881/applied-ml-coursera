@@ -1,0 +1,9 @@
+Screening Questions:
+Product Leadership: Briefly describe your experience leading product development teams and managing multiple product portfolios.
+Stakeholder Management: Share an example where you collaborated with cross-functional stakeholders (business, engineering, vendors) to deliver a product successfully.
+Technology Exposure: Please highlight your experience with modern development frameworks (e.g., .NET Core, Azure, AWS, GCP, mobile frameworks).
+Agile & Process Management: What Agile methodologies have you implemented or managed? How did you improve team productivity?
+People Management: Describe your experience managing managers and senior team members. How do you handle performance and succession planning?
+Strategic Thinking: Provide an example of a product roadmap you created that aligned with business strategy.
+Budget & Resource Management: Have you managed budgets and resource allocation? Please briefly explain your experience.
+Conflict Resolution: Share an instance where you handled conflict between stakeholders or teams.
