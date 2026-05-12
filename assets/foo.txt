@@ -1,0 +1,190 @@
+SUBIR SAW
+Technology Leader | Engineering Strategy | Big Data & Cloud Platforms | Distributed Systems
++
+91-9247939708
+saw2881@gmail.com
+www.linkedin.com/in/subirsaw
+Hyderabad, India
+EXPERIENCE
+Vice President
+Goldman Sachs
+12/2024 - Present
+Hyderabad, India
+Led a cross-location engineering team building large-scale
+Big Data
+surveillance platforms, driving architecture, delivery, and operational excellence across distributed systems.
+Architected and developed
+Hadoop
+and
+Spark
+-based data pipelines processing terabytes of data daily, enabling batch surveillance analytics.
+Designed scalable data processing frameworks that
+improved data processing performance by 50%
+, reducing latency for compliance monitoring and risk detection workflows.
+Partnered with Compliance, Risk, and Business stakeholders to translate regulatory and surveillance requirements into high-throughput, fault-tolerant data solutions supporting critical monitoring.
+Implemented performance tuning, cluster optimization, and Spark job enhancements that
+reduced compute costs by 15%
+while increasing processing efficiency.
+Engineering Manager
+Software AG
+04/2022 - 12/2024
+Hyderabad, India
+Led the development of Analytics Builder's
+no-code platform
+; a rich web UI that is powered by
+angular
+and leverages
+spring
+microservices, resulting in a
+40% surge in adoption
+Boosted product visibility
+by integrating Analytics Builder with
+Gainsight PX.
+Enabled user behavior insights for data-driven decisions, enhancing platform's value.
+Conducted training sessions for sales teams on platform utilization, equipping them with in-depth knowledge to articulate product benefits to clients, contributing to increased sales effectiveness and customer satisfaction
+Successfully transitioned the platform to a continuous deployment model through automated testing
+Consulting Manager
+Deloitte Consulting
+06/2014 - 03/2022
+Hyderabad, India
+Led the
+Azure Center of Excellence (COE)
+, overseeing a pool of over 300 Azure practitioners.
+Facilitated Azure trainings, certifications and deployment of these practitioners to diverse projects.
+Managed the
+cloud migration
+initiative of Kroger's inventory portfolio with minimal disruptions, allowing the client to harness the benefits of scalability, security and cost optimization of cloud infrastructure.
+Led delivery of Colorado's Unemployment Insurance solution on .NET core, managing 30 developers. Oversaw project from RFP to production using agile,
+generating $2M annually in client revenue
+.
+Designed the re-architecture of CalHEERS, which is California's Health Benefit Exchange (HBE), with an aim to bring in more visibility through the use of
+Prometheus, Grafana and ELK
+.
+Implemented event-driven asynchronous spring microservices communication using
+Kafka
+, ushering in real-time capabilities within the system.
+Led the platform modernization for Kentucky’s Health Insurance Exchange (HIX)
+using
+.NET
+, replacing a legacy system and re-architecting core marketplace workflows, which enhanced performance, scalability, and user experience and drove a
+35% year-over-year increase in health insurance plan purchases
+through the marketplace.
+Senior Software Engineer
+Optum
+12/2012 - 06/2014
+Hyderabad, India
+Developed CareTracker, a sophisticated
+Electronic Medical Record (EMR) and Practice Management (PM)
+solution
+Created the rich web UI of patient encounter sub-system using
+knockout
+and
+jQuery
+Wrote the monolithic services servicing the UI using
+WCF
+SUMMARY
+Technology leader with 17+ years of experience driving high-impact engineering, consulting, and product initiatives across complex business environments. Proven track record of building, mentoring, and leading high-performing cross-functional teams, aligning technology strategy with business goals, and delivering measurable outcomes at scale. Adept at operating at the intersection of technology, business, and customer success, with strong ownership of delivery, stakeholder alignment, and organizational growth.
+Extensive experience spanning consulting and product development, with a strong ability to translate business problems into scalable, outcome-driven solutions. Hands-on leadership in cloud strategy, solution architecture, and custom platform development, ensuring systems are resilient, future-ready, and aligned with enterprise transformation goals.
+Brings a unique blend of technical depth and commercial acumen, having actively contributed to sales cycles, RFP responses, solution shaping, and executive-level client engagements. Known for driving strategic initiatives from vision to execution, improving engineering maturity, optimizing delivery models, and fostering a culture of accountability, innovation, and continuous improvement.
+KEY ACHIEVEMENTS
+Enterprise Platform Modernization Impact
+Led modernization of Kentucky’s Health Insurance Exchange platform, replacing a legacy system and contributing to a
+35% year-over-year increase
+in marketplace insurance purchases.
+Large-Scale Data Platform Optimization
+Improved Big Data processing performance by
+50%
+and reduced infrastructure compute costs by
+15%
+at Goldman Sachs through Spark optimization and distributed system tuning.
+High-Value Program Delivery
+Directed end-to-end delivery of Colorado’s Unemployment Insurance system, managing
+30 engineers
+and generating
+$2M+ annual client revenue
+.
+Product Adoption Growth
+Drove
+40% increase in platform adoption
+for Software AG’s Analytics Builder through UI modernization, analytics integration, and customer enablement initiatives.
+Cloud Capability Leadership at Scale
+Led Azure Center of Excellence at Deloitte, mentoring and enabling
+300+ cloud practitioners
+, accelerating enterprise cloud adoption across multiple client engagements.
+CERTIFICATIONS
+Microsoft Azure architect technologies
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+EXPERIENCE
+Software Development Engineer
+Harland Clarke
+10/2011 - 12/2012
+Chennai, India
+Developed
+ordermychecks.com
+an online platform that allows individuals and businesses to conveniently order personalized checks for their bank accounts
+Developed the dynamic web application using
+JSP
+and
+jQuery
+Associate Projects
+Associate Projects
+03/2009 - 10/2011
+Chnnai, India
+Developed Aetna's small group Quoting and Renewal System, a web application leveraging SOA and built using servlets,
+JSP, EJB, Jax-WS
+Developed the rate load batch process capable of parsing, verifying, and transforming XML data, which encapsulated healthcare plan information, into Oracle database
+EDUCATION
+Bachelor of Technology
+West Bengal University of Technology
+06/2004 - 04/2008
+West Bengal, India
+SKILLS
+Engineering Leadership & Delivery
+Engineering Strategy & Roadmapping
+Cross-Location Team Leadership
+Large Program Delivery
+Engineering Process Maturity
+Stakeholder & Executive Communication
+Platform & Architecture
+Distributed Systems Architecture
+Big Data (Hadoop, Spark)
+Microservices & Event-Driven Architecture
+Platform Modernization & Legacy Transformation
+Cloud & DevOps
+Microsoft Azure
+Docker / Kubernetes
+CI/CD & Observability (Prometheus / Grafana / ELK)
+Data & Backend Technologies
+Data Processing Frameworks
+Batch Data Pipelines
+API & Service-Oriented Architectures
+SQL & NoSQL Databases
+Tech Stack
+C#
+.NET
+Java
+Spring Boot
+Python
+Angular
+•
+•
+•
+•
